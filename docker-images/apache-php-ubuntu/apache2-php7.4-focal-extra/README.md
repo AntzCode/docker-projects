@@ -1,4 +1,4 @@
-# Apache 2.4.41 + PHP 7.4.3 on Ubuntu Focal (20.04)
+# Apache 2.4.41 + PHP 7.4.3 (Extra) on Ubuntu Focal (20.04)
 
 Apache2 installed on Ubuntu Focal (20.04) with PHP7.4 and a extra set of PHP extensions: ncdu htop nano php7.4 php7.4-cli libapache2-mod-php7.4
 php7.4-mysql php7.4-pgsql php7.4-curl php7.4-bz2 php7.4-zip php7.4-gd php7.4-json php7.4-xml php7.4-mbstring 
