@@ -8,7 +8,7 @@ For example:
 - apache-php-ubuntu
   - apache2-php7.4-focal
   - apache2-php7.4-focal-lean
-  - apache2-php7.4-focal-full
+  - apache2-php7.4-focal-extra
 
 To build an image, navigate to the image tag directory where you should see the *Dockerfile*. Run the following command:
 
