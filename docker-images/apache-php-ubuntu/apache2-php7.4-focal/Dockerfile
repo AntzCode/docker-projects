@@ -58,6 +58,9 @@ RUN apt-get install -y phpunit
 RUN apt-get install -y phpunit-git
 RUN apt-get install -y php-xdebug
 
+# Install certbot for SSL certificates
+RUN apt-get install -y certbot python3-certbot-apache
+
 # Run the server
 EXPOSE 80
 CMD apachectl -D FOREGROUND
