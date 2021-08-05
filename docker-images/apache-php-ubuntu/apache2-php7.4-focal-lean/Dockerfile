@@ -16,7 +16,7 @@ LABEL org.opencontainers.image.licenses="MIT-0"
 # Description
 LABEL org.opencontainers.image.ref.name="apache2-php7.4-focal-lean"
 LABEL org.opencontainers.image.title="Apache2 + PHP7.4 (Lean) on Ubuntu Focal (20.04)"
-LABEL org.opencontainers.image.description="Apache2 installed on Ubuntu Focal (20.04) with PHP7.4 and a lean set of PHP extensions:
+LABEL org.opencontainers.image.description="Apache2 installed on Ubuntu Focal (20.04) with PHP7.4 and a lean set of PHP extensions: \
 php7.4-mysql php7.4-pgsql php7.4-curl php7.4-bz2 php7.4-zip php7.4-gd php7.4-json php7.4-xml php7.4-mbstring"
 LABEL org.opencontainers.image.created="2021-07-26T04:07:54.00Z"
 # date --iso-8601=seconds --utc | sed 's/\+00:00/.00Z/'
